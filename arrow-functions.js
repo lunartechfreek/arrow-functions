@@ -50,5 +50,3 @@ const returnMultipleLines = () => (
     </p>`
 )
 console.log(returnMultipleLines())
-
-let averageMarks = averagePoints('maths', 'english', 'cad', 'science', 'art');
